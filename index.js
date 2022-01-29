@@ -1,3 +1,3 @@
 function helloworld() {
-  alert("Hello World!");
+  alert("ฮัลโหล เทอว์~");
 }
