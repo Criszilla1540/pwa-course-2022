@@ -1,3 +1,3 @@
 function helloworld() {
-  alert("ฮัลโหล เทอว์~");
+  alert("Error Again");
 }
